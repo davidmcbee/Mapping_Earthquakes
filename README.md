@@ -15,7 +15,8 @@ Libraries: D3, Mapbox, Leaflet
 
 ## Product Creation Overview
 The web page was was created and is shown via HTML and css. Javascript was used along with d3, mapbox andLeaflet to create the functionality that shows selectable three maps that are available in the top right
-selection box, Figure 1 ![](https://github.com/davidmcbee/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/images/SelectionBox.png).
+selection box, Figure 1
+![](https://github.com/davidmcbee/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/images/SelectionBox.png).
 
 Figure 1
 The available maps are the street view, the satellite view and the dark view. The overlays reapresent allearthquakes worldwide, techonic plates and major earthquakes, those greater than 4.5 magnitude over the last week.
