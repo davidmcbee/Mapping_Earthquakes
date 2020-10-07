@@ -23,31 +23,32 @@ Figure 1
 The available maps are the street view, the satellite view and the dark view. The overlays reapresent allearthquakes worldwide, techonic plates and major earthquakes, those greater than 4.5 magnitude over the last week.
 ### Product Images
 Figure 2 is the street map view showing all earthquakes along with a popup indicating maginitude and loaction.
-(https://github.com/davidmcbee/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/images/EarthquakesMap_street.png)
+
+![](https://github.com/davidmcbee/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/images/EarthquakesMap_street.png)
 
 Figure 2
 
 Figure 3 is the street view map showing the techtonic plates in addition to all earthquakes. Note the popup indicating the name of the techtonic plate.
-(https://github.com/davidmcbee/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/images/EarthquakesMap_TechonicPlates_street.png)
+![](https://github.com/davidmcbee/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/images/EarthquakesMap_TechonicPlates_street.png)
+
 Figure 3
 
 Figure 4 introduces major earthquakes along with all earthquakes and techtonic plates. In addition to the pop up indicating the magnitude and location, the sizes represent the magnitudes, just like all earthquakes.
+![](https://github.com/davidmcbee/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/images/EarthquakesMap_MajorQuakes_street.png)
+
+Figure 4
 
 Figure 5 shows all three overalays on a satellite map.
-(https://github.com/davidmcbee/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/images/Earthquakes_Satellite.png)
+![](https://github.com/davidmcbee/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/images/Earthquakes_Satellite.png)
 
 Figure 5
 
 Figure 6 shows all three overlays on a dark map.
-(https://github.com/davidmcbee/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/images/Earthquakes_Dark.png)
+![](https://github.com/davidmcbee/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/images/Earthquakes_Dark.png)
 
 Figure 6.
 
 Finally the selection box is shown in Figure 7. this is where the user can select one of the three maps and one, two or all three overalys.
-(https://github.com/davidmcbee/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/images/SelectionBox.png)
+![](https://github.com/davidmcbee/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/images/SelectionBox.png)
 
 Figure 7.
-
-
-
-
