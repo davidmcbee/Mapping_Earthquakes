@@ -1,7 +1,7 @@
 # Mapping_Earthquakes
 
 ## Purpose
-The purpose of this analysis is to use create an interactive map web page that shows earthquakes, tectonic plates and major earthquakes, those over magnitude 4.5 on one of three maps chosen by the user.
+The purpose of this analysis is to create an interactive map web page that shows earthquakes, tectonic plates and major earthquakes, those over magnitude 4.5, on one of three maps chosen by the user.
 
 ## Resources
 The following data files are used
@@ -20,7 +20,7 @@ selection box, Figure 1.
 ![](https://github.com/davidmcbee/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/images/SelectionBox.png).
 
 Figure 1.
-The available maps are the street view, the satellite view and the dark view. The overlays reapresent allearthquakes worldwide, techonic plates and major earthquakes, those greater than 4.5 magnitude over the last week.
+The available maps are the street view, the satellite view and the dark view. The overlays reapresent all earthquakes worldwide, techonic plates and major earthquakes, those greater than 4.5 magnitude over the last week.
 ### Product Images
 Figure 2 is the street map view showing all earthquakes along with a popup indicating maginitude and loaction.
 
@@ -34,7 +34,7 @@ Figure 3 is the street view map showing the techtonic plates in addition to all 
 
 Figure 3.
 
-Figure 4 introduces major earthquakes along with all earthquakes and techtonic plates. In addition to the pop up indicating the magnitude and location, the sizes represent the magnitudes, just like all earthquakes.
+Figure 4 introduces major earthquakes along with all earthquakes and techtonic plates. In addition to the pop up indicating the magnitude and location, the circle sizes represent the magnitudes, just like all earthquakes.
 
 ![](https://github.com/davidmcbee/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/images/EarthquakesMap_MajorQuakes_street.png)
 
@@ -52,7 +52,7 @@ Figure 6 shows all three overlays on a dark map.
 
 Figure 6.
 
-Finally the selection box is shown in Figure 7. this is where the user can select one of the three maps and one, two or all three overalys.
+Finally the selection box is shown in the upper right corner in Figure 7. this is where the user can select one of the three maps and one, two or all three overalys.
 
 ![](https://github.com/davidmcbee/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/images/Earthquakes_control.png)
 
